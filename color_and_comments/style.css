@@ -1,0 +1,20 @@
+h1{
+    /* using color names */
+    /* color: blue; */
+    /* color:rgb(0, 0, 125) */
+    /* hexdecimal */
+    color: #ff4;
+}
+
+body{
+background-color:black;
+
+}
+
+div{
+    color: white;
+    height: 200px;
+    width: 200px;
+    background-color: rgba(225, 0, 0,0.4);
+    
+}
