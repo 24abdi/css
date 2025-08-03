@@ -1,0 +1,8 @@
+h1 {
+    text-transform: capitalize;
+}
+img {
+    float: left;
+    margin: 15px;
+    padding: 15px;
+}

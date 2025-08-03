@@ -1,0 +1,13 @@
+h1 {
+    font-size: 78px;
+    font-family: Pacifico;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-style: normal;
+    
+}
+p{
+    line-height: 1.6;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
